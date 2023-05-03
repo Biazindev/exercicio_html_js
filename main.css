@@ -1,0 +1,65 @@
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        max-width: 1366px;
+        margin: 0 0%;
+        width: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    h1 {
+        padding: 16px ;
+        margin:  0;
+        width: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+        
+
+        background-color: black;
+        color: #fff;
+    }
+
+    h2,
+    h3 {
+        margin: 16px  auto;
+        padding: 0 16px;
+
+    }
+
+    .descripition,
+    form {
+        margin: 32px  64px;
+        padding:  16px;
+        margin-bottom: 8px;
+
+    }
+
+    .descripition,
+    input {
+        padding: 8px 10px;
+        width: 400px;
+        margin: 4px;
+    }
+
+    .descripition, 
+        button {
+            margin: 0  4px;
+            padding: 8px 10px;
+            background-color: black;
+            color: #fff;
+
+        }
+
+        .container {
+            
+            padding: 20px;
+            text-align: left;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            
+        }
